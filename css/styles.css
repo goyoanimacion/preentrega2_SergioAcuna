@@ -18,27 +18,32 @@
     background-color: blue;
     height: 200px;
     background-size: cover;
+    background-position: center;
     background-image: url(../img/su_sana_dieta/100_4564.JPG);
 }
 .foto2{
     background-color: blue;
     height: 200px;
     background-size: cover;
+    background-position: center;
     background-image: url(../img/su_sana_dieta/100_4573.JPG);
 }
 .foto3{
     background-color: blue;
     height: 200px;
     background-size: cover;
+    background-position: center;
     background-image: url(../img/su_sana_dieta/100_4639.JPG);
 }
 .foto4{
     background-color: blue;
     height: 200px;
     background-size: cover;
+    background-position: center;
     background-image: url(../img/su_sana_dieta/100_4646.JPG);
 }
 .footer{
     height: 100px;
     background-color: yellow;
+    margin-top: 50px;
 }
